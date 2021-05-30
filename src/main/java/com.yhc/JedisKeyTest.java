@@ -8,5 +8,6 @@ public class JedisKeyTest {
         String ping = jedis.ping();
         System.out.println(ping);
         //jedis.keys("*");
+        System.out.println("hello");
     }
 }
