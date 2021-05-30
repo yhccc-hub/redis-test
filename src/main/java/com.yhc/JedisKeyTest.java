@@ -9,5 +9,6 @@ public class JedisKeyTest {
         System.out.println(ping);
         //jedis.keys("*");
         System.out.println("hello");
+        System.out.println("hot-fix test");
     }
 }
