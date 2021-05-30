@@ -10,5 +10,6 @@ public class JedisKeyTest {
         //jedis.keys("*");
         System.out.println("hello");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
